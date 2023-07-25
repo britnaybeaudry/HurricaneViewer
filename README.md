@@ -7,3 +7,5 @@ The data sources are as follows:
 * Hurricane Path & Max Wind Speed: NOAA NHC Best Track Data (HURDAT2) Atlantic Hurricane Catalog
 
 You can view a working version of this script [here](https://code.earthengine.google.com/74c1c09a4c3f8256111c20096a94c7ed).
+
+![User Interface](https://github.com/britnaybeaudry/britnaybeaudry.github.io/blob/master/assets/img/portfolio/hurricaneviewer.gif)
