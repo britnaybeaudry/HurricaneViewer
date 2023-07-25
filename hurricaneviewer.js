@@ -12,7 +12,7 @@
 // - Sea Surface Temperature: Hybrid Coordinate Ocean Model (HYCOM), Water Temperature and Salinity
 // - Hurricane Path & Max Wind Speed: NOAA NHC Best Track Data (HURDAT2) Atlantic Hurricane Catalog
 
-// Created by Britnay Beaudry. View at: https://github.com/britnaybeaudry/HurricaneViewer 
+// Created by Britnay Beaudry. View at: https://github.com/britnaybeaudry/HurricaneViewer  
 
 // Start of code
 
