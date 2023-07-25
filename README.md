@@ -4,7 +4,7 @@ This tool displays hourly precipitation, bidaily sea surface temperature, and ma
 The data sources are as follows:
 * Precipitation: Jaxa Global Satellite Mapping of Precipitation (GSMaP)
 * Sea Surface Temperature: Hybrid Coordinate Ocean Model (HYCOM), Water Temperature and Salinity
-* Hurricane Path & Max Wind Speed: NOAA NHC Best Track Data (HURDAT2) Atlantic Hurricane Catalog
+* Hurricane Best Path & Max Wind Speed: NOAA NHC Best Track Data (HURDAT2) Atlantic Hurricane Catalog
 
 You can view a working version of this script [here](https://code.earthengine.google.com/74c1c09a4c3f8256111c20096a94c7ed).
 
