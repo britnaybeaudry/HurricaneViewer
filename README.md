@@ -1,5 +1,5 @@
 # HurricaneViewer
-This tool displays hourly precipitation, bidaily sea surface temperature, and max wind speed for a given area. The code is figured for 2017 hurricane Maria, but users can change the geometry, start/end date, and point of interest to view other hurricanes.
+This tool displays hourly precipitation, bidaily sea surface temperature, and max wind speed for a given area. The code is set for 2017 hurricane Maria, but users can change the geometry, start/end date, and point of interest to view other hurricanes.
 
 The data sources are as follows:
 * Precipitation: Jaxa Global Satellite Mapping of Precipitation (GSMaP)
